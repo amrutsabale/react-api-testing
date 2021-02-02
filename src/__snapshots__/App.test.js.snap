@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App renders App corectly 1`] = `
+<div>
+  <div
+    class="app"
+  >
+    <div>
+      <a
+        href="/todos"
+      >
+        Go to Todos
+      </a>
+    </div>
+    <div>
+      <a
+        href="/posts"
+      >
+        Go to Posts
+      </a>
+    </div>
+  </div>
+</div>
+`;
